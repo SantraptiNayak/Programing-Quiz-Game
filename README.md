@@ -7,7 +7,7 @@ The Programming Quiz game offers players a series of questions related to progra
 https://github.com/SantraptiNayak/Programing-Quiz-Game/assets/107788748/f76d4ec0-ed2b-47e1-b73a-c9569c2ee8cf
 
 
-# How to work ith it?
+# How to work with it?
 
 1. Clone the GitHub Repository: Open a terminal in VS Code by selecting Terminal -> New Terminal from the top menu. Use the git clone command followed by the GitHub repository URL to clone the repository.
 
